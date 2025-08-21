@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Long</h1>
+<h1 align="center">Hey, I'm Long</h1>
 <p align="center">
   <b>Student • Junior Developer • Tech Enthusiast</b>
 </p>
@@ -49,7 +49,6 @@
 
 <p align="center">
   <a href="https://soundcloud.com/czic"><img src="https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white" /></a>
-  <a href="https://xaint.tokyo"><img src="https://xaint.tokyo/logo.png" /></a>
   <a href="https://t.me/unixslat"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
 </p>
 
