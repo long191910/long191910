@@ -2,7 +2,8 @@
 <p align="center">
   <b>Student • Junior Developer • Tech Enthusiast</b>
 </p>
-  <b>https://xaint.tokyo</b>
+<p align="center">
+  <b>own `@` https://xaint.tokyo</b>
 </p>
 
 ---
