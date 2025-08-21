@@ -3,16 +3,16 @@
   <b>Student • Junior Developer • Tech Enthusiast</b>
 </p>
 <p align="center">
-  <b>own https://xaint.tokyo</b>
+  <b>♱ own https://xaint.tokyo ♱</b>
 </p>
 
 ---
 
 ## About Me
 
-- Passionate about **building cool stuff** (from web apps to bots & scripts)  
-- Main language: **Python**, but also work with **Lua**, **Java**, and modern web tech  
-- Always **learning, experimenting, shipping**  
+- **♱** Passionate about **building cool stuff** (from web apps to bots & scripts)  
+- **♱** Main language: **Python**, but also work with **Lua**, **Java**, and modern web tech  
+- **♱** Always **learning, experimenting, shipping**  
 ---
 
 ## Tech Stack
